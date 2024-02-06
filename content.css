@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+}
+
+.active
+{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: aqua;
+    background-color: black;
+}
